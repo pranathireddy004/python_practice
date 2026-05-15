@@ -20,3 +20,18 @@ for key,value in employee_1.items():
             print(key1,value1)
 
 # isinstance(value,datatype) return true if value is of the data type else false
+
+#List of dicts
+employees=[
+    {"id":10,"name":'Pranathi',"salary":300000},
+    {"age":20,"location":"Banglore"}
+]
+print(employees)
+print(employees[0])
+#loop throgh list of dicts
+
+for emp in employees:
+    if isinstance(emp,dict):
+        for key,value in emp.items():
+            print(key,value)
+
