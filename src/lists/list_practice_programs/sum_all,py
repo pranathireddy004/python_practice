@@ -1,0 +1,12 @@
+#sum of all elements
+
+#use sum()
+
+list1=[1,2,3,4,5]
+print(sum(list1))
+
+#logic
+sum=0
+for num in list1:
+    sum=sum+num
+print(sum)
