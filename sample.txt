@@ -1,0 +1,4 @@
+id,name,salary
+1,Pranathi,3000000
+2,Ravi,600000
+3,Anu,550000, 2
