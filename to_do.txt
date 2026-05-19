@@ -1,0 +1,3 @@
+#to do at final o the sessions
+
+1.flattening json and complex jsons wothout knowing the actual structure of the jsons also

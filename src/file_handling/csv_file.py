@@ -36,3 +36,4 @@ with open('orders.csv','r') as f:
     list3=[row for row in data]
     print(list3)
     
+#writting to csv file
